@@ -10,13 +10,13 @@ data manipulation in python.
 by Google.
 
 # Intermediate
-* [Start here]((https://machinelearningmastery.com/start-here/)) . Read the Intermediate column.
+* [Start here](https://machinelearningmastery.com/start-here/) . Read the Intermediate column.
 * [Intermediate machine learning](https://www.kaggle.com/learn/intermediate-machine-learning) by Kaggle.
 * [Data visualization](https://www.kaggle.com/learn/data-visualization) by Kaggle.
 * [Feature engineering](https://www.kaggle.com/learn/feature-engineering) by Kaggle.
 
 # Advanced
-* [Start here]((https://machinelearningmastery.com/start-here/)) . Read the Advanced column.
+* [Start here](https://machinelearningmastery.com/start-here/) . Read the Advanced column.
 
 
 # Complete course
