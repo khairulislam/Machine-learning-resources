@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8a1fb60-60c4-46b4-a88b-ee3448fd779a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Utils/Analysis/directory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/Anomaly detection.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/Categorical Feature Encoding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/Others/Memory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/Visualization/Visualization.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/Visualization/images/scatter plot - 2 vertical subplots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utils/Visualization/images/value_count.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Feature Engineering.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Visualization/images/boxplot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Visualization/images/correlation matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Visualization/images/dist_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Visualization/images/distplot of selected features.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/Visualization/images/scatter.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Visualization/Visualization.md" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/Visualization/Visualization.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,5 +82,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="177" key="FileChooserDialogImpl" timestamp="1578741508672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="177" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578741508672" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579104505730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579104505730" />
   </component>
 </project>
